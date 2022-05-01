@@ -1,4 +1,4 @@
----
+
 Bijele puti, uska struka,  
 utičnica višestruka!
 
@@ -16,4 +16,3 @@ slađi i od čokolade.
 
 Tek priključak na izvor struje,  
 al' ga volim, što je tu je.
----

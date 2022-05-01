@@ -1,4 +1,4 @@
----
+
 Drhti ruka svaki puta  
 čim dotakne rebra kruta,  
 rastopim se od miline  
@@ -9,4 +9,3 @@ i dok hvatam se kaputa
 pogled mi po sobi luta,  
 pa čim te oči spaze, vide,  
 nikamo mi se ne ide.
----
